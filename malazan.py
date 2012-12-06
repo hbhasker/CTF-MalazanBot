@@ -1,6 +1,8 @@
 import random
 import os
-
+import sys
+sys.path.append("c:\\Program\ Files\ (x86)\\Python2.7\\Lib\\site-packages\\") 
+import pybrain
 from api import gameinfo
 from api import Commander
 from api import commands

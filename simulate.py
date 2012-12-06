@@ -18,7 +18,7 @@ from game.application import CaptureTheFlag
 
 
 # By default load these commanders.
-defaults = ['examples.BalancedCommander', 'mycmd.PlaceholderCommander']
+defaults = ['examples.BalancedCommander', 'malazan.MalazanCommander']
 
 # Possible levels that can be used.
 levels = ['map00', 'map01', 'map10', 'map11', 'map20', 'map21', 'map30']
